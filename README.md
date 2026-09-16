@@ -164,8 +164,7 @@ programming, and share embedded systems experiments.
 ## 📫 Connect With Me
 
 - GitHub: [@Vishwa0111](https://github.com/Vishwa0111)
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- Email: vishwahegadihal286@gmail.com
 
 ---
 
