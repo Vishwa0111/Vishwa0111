@@ -1,29 +1,18 @@
 # Hi, I'm Vishwa Hegadihal 👋
 
-### Embedded Systems Developer | C/C++ Programmer | Electronics & Communication Engineer
+### Embedded Systems Trainee | C/C++ Programmer | Electronics and Communication Engineer
 
-I am currently pursuing an Embedded Systems course at **Vector India, Bengaluru**.
-
-I have a strong interest in low-level programming, embedded software development,
-ARM microcontrollers, computer networks, and system-level problem solving.
-
-I enjoy learning how hardware and software work together and building practical
-projects using programming and embedded technologies.
-
----
+I am currently pursuing an Embedded Systems course at **Vector India, Bengaluru**. I am interested in developing firmware, working with ARM microcontrollers, understanding hardware-software integration, and building practical embedded projects.
 
 ## 👨‍💻 About Me
 
 - 🎓 Electronics and Communication Engineering student
-- 🔧 Currently pursuing Embedded Systems training at Vector India, Bengaluru
-- 💻 Strong foundation in C, C++, Python, and Embedded C
-- ⚙️ Interested in ARM microcontrollers and firmware development
-- 🌐 Learning and practicing computer networking and communication protocols
-- 🐧 Comfortable working with Linux and Windows environments
-- 🧠 Interested in problem-solving, debugging, and system-level programming
-- 🚀 Focused on developing practical embedded and software projects
-
----
+- 🔧 Currently training in Embedded Systems at Vector India, Bengaluru
+- 💻 Interested in Embedded C, C/C++, and Python
+- ⚙️ Working with ARM microcontrollers and peripheral interfacing
+- 🌐 Learning networking concepts and communication protocols
+- 🐧 Comfortable working with Linux, Ubuntu, and Windows
+- 🚀 Interested in firmware development, embedded applications, and electronics projects
 
 ## 🛠️ Technical Skills
 
@@ -37,42 +26,33 @@ projects using programming and embedded technologies.
 ### Embedded Systems
 
 - ARM Microcontrollers
-- ARM7 Architecture
-- LPC2129 Microcontroller
+- LPC2129
 - GPIO Programming
 - Timers and Counters
-- Interrupt Concepts
-- LCD Interfacing
 - LED and Switch Interfacing
-- Embedded Firmware Development
-- Hardware–Software Integration
+- LCD Interfacing
+- Firmware Development
+- Hardware-Software Integration
 
 ### Communication Protocols
 
 - UART
 - I2C
 - CAN
-- Serial Communication
-- Basic Communication Interface Debugging
 
 ### Networking
 
-- Computer Networking Fundamentals
-- TCP/IP Concepts
+- Networking Fundamentals
 - IP Addressing
-- OSI and TCP/IP Models
 - LAN and WAN Concepts
-- Network Configuration
+- Basic Network Configuration
 - Cisco Packet Tracer
 
-### Operating Systems
+### Operating Systems and Tools
 
 - Linux
 - Ubuntu
 - Windows
-
-### Tools and Development Environment
-
 - Git
 - GitHub
 - GCC
@@ -80,92 +60,50 @@ projects using programming and embedded technologies.
 - VS Code
 - Keil µVision
 - Proteus
-- MySQL
-- Cisco Packet Tracer
 
----
-
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### ⏱️ LPC2129 Digital Stopwatch
 
-A digital stopwatch project developed using the ARM LPC2129 microcontroller.
+A digital stopwatch project developed using the ARM LPC2129 microcontroller and Embedded C.
 
-**Technologies:**
-- Embedded C
-- ARM LPC2129
-- LCD
-- Timers
-- GPIO
+**Technologies:** ARM LPC2129, Embedded C, LCD, GPIO, Timers
 
-**Key Concepts:**
-- Timer-based time calculation
-- LCD display interfacing
-- Embedded programming
-- Hardware control
+🔗 [View Project](https://github.com/Vishwa0111/LPC2129-Digital-Stopwatch)
 
----
+### 🔺 C Pattern Programming
 
-### 🔷 C Pattern Programming Problems
+A collection of C programming problems focused on loops, nested loops, logic building, and pattern printing.
 
-A collection of C programming problems focused on improving logical thinking,
-nested loops, pattern generation, and programming fundamentals.
+**Technologies:** C Programming
 
-**Technologies:**
-- C
-- GCC
-- Linux
-
-**Topics:**
-- Star patterns
-- Number patterns
-- Pyramid patterns
-- Diamond patterns
-- Nested loops
-- Logic building
-
----
+🔗 [View Project](https://github.com/Vishwa0111/Problems-on-patterns-)
 
 ## 📚 Currently Learning
 
-- Advanced C Programming
-- C++ Programming
-- Data Structures and Algorithms
-- Embedded C
-- ARM Microcontrollers
-- UART, I2C, and CAN Communication
+- Advanced Embedded C
+- ARM Microcontroller Programming
 - Microcontroller Peripherals
-- Linux System Programming
-- Computer Networking
-
----
+- UART, I2C, and CAN Communication
+- Debugging and Firmware Development
+- Data Structures in C
+- Real-Time Embedded Systems
 
 ## 🎯 Areas of Interest
 
 - Embedded Systems
 - Firmware Development
-- ARM-Based Systems
-- Automotive Embedded Systems
-- IoT and Connected Devices
-- Device Drivers
-- Computer Networks
-- Low-Level Programming
-- Hardware–Software Integration
-
----
-
-## 📊 GitHub Activity
-
-I use GitHub to document my learning journey, publish projects, practice
-programming, and share embedded systems experiments.
-
----
+- ARM Microcontrollers
+- Embedded C Programming
+- IoT and Electronics
+- Hardware-Software Integration
+- Automotive and Industrial Embedded Systems
 
 ## 📫 Connect With Me
 
-- GitHub: [@Vishwa0111](https://github.com/Vishwa0111)
+- GitHub: [Vishwa0111](https://github.com/Vishwa0111)
 - Email: vishwahegadihal286@gmail.com
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+⭐ Feel free to explore my repositories and follow my learning journey in Embedded Systems.
